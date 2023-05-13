@@ -17,6 +17,9 @@ Rate-of-FEV1-decline estimates (% predicted/year) differed between linear margin
 ## Conclusions
 Differences were as high as 0.5% predicted/year between rate-of-decline estimates, but we found estimates were robust to lung function data availability scenarios except short-term follow-up and older age ranges. Inconsistencies among previous study results may be attributable to inherent differences in study design, inclusion criteria, or covariate adjustment. Results-based decision points reported herein will support researchers in selecting a strategy to model lung function decline most reflective of nuanced, study-specific goals.
 
+# Keywords
+epidemiology, longitudinal analysis, pulmonary function, rate of decline, registry analysis
+
 # Authors
 
 Rhonda Szczesniak, Eleni-Rosalina Andrinopoulou, Weiji Su, Pedro M Afonso, Pierre-Régis Burgel, Elizabeth Cromwell, Emrah Gecili, Enas Ghulam , Christopher H Goss, Nicole Mayer-Hamblett, Ruth H Keogh, Theodore G Liou, Bruce Marshall, Wayne J Morgan, Joshua S Ostrenga, David J Pasta , Sanja Stanojevic, Claire Wainwright, **Grace C Zhou**, Gabriela Fernandez, Aliza K Fink, Michael S. Schechter
